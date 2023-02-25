@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chapter03</string>
+    <string name="hello">你好，世界</string>
+    <string name="color">代码设置系统自带的颜色</string>
+    <string name="color8">代码设置八位文字颜色</string>
+    <string name="color6">代码设置六位文字颜色</string>
+    <string name="colorx">布局文件设置六位文字颜色</string>
+    <string name="colorv">资源文件引用六位文字颜色</string>
+    <string name="background">背景设置为绿色</string>
+</resources>
